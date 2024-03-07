@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 34bbe82c019cf452da1e72686323c69e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_0"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1833
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf5749c785b4e96905f8d0428409cf
+      internalID: -982530782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_1"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1776
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad953ad9651ef439ea37faa3281bb81f
+      internalID: 1683859344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_2"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1679
+        width: 271
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0bb92b894b34e7fb9ec92f04fe2677
+      internalID: 855518682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_3"
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1553
+        width: 571
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c2de1861354c3d8f23e6975eb6d42
+      internalID: -2146927617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_4"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1633
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd6a5dcba3743b589ffdb6d0df2607
+      internalID: -467026419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_5"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1635
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf427ea225774196bb74766e681d7fb
+      internalID: 655062183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_7"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1378
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c663aab9dc844e9a861f24940beda2
+      internalID: -1776077567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_8"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1484
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a3bcad05ee34541bbccf3618ff52ab
+      internalID: 1028479121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_9"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1485
+        width: 152
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e676139487d4099a30ddd30250c616
+      internalID: -2043854921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_10"
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 864
+        width: 374
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8406465322fa4ffcb9f67e7140e25a5
+      internalID: -728193561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_11"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1177
+        width: 237
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a01e498a564b369a704f96830b590
+      internalID: 309705067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_12"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1277
+        width: 178
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5015fc829d6ef49bf967a0438396b3f4
+      internalID: -709976381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_13"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1336
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb8075192284ac1bccc5b4aba995ce
+      internalID: 1589499091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_14"
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 917
+        width: 368
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e05ea571326f443f8630846ba0eda88
+      internalID: 366609863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_15"
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 991
+        width: 156
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad042f101684372b49ca213f3287a3
+      internalID: -1009960953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_17"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 629
+        width: 700
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6f49ba5ef94c45b153301717e6166
+      internalID: -933852823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_18"
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 667
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e99046ccd74961885d226207fc68e
+      internalID: -778650718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_19"
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 601
+        width: 266
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5d1f3a98fa450992cf5015aa95cf8
+      internalID: 829037118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_20"
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 451
+        width: 302
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba3db82b1034f699884e9ee2bfcabc
+      internalID: -2059639856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_21"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 429
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eaae54c268e424d9dc69fce2c5ac85
+      internalID: 2144082162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_22"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 476
+        width: 272
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83e78b113d144abf8d097ce2e585da2
+      internalID: 1880907430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_23"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 337
+        width: 314
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d625c25bdfb84f10bf8b06fc20e5d82
+      internalID: 1365421701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_24"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 424
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4eeca96c074c908a4ea84c5fe8679
+      internalID: 2092943269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_25"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 155
+        width: 386
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e460a0426b411cadb07adf3c6ef92
+      internalID: 1682860621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gerc\u0327ektenSon_26"
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 65
+        width: 389
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c012820ded4688801b06e5c20c9ff
+      internalID: -1380626399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "gerc\u0327ektenSon_0": -982530782
+      "gerc\u0327ektenSon_1": 1683859344
+      "gerc\u0327ektenSon_10": -728193561
+      "gerc\u0327ektenSon_11": 309705067
+      "gerc\u0327ektenSon_12": -709976381
+      "gerc\u0327ektenSon_13": 1589499091
+      "gerc\u0327ektenSon_14": 366609863
+      "gerc\u0327ektenSon_15": -1009960953
+      "gerc\u0327ektenSon_16": 840399070
+      "gerc\u0327ektenSon_17": -933852823
+      "gerc\u0327ektenSon_18": -778650718
+      "gerc\u0327ektenSon_19": 829037118
+      "gerc\u0327ektenSon_2": 855518682
+      "gerc\u0327ektenSon_20": -2059639856
+      "gerc\u0327ektenSon_21": 2144082162
+      "gerc\u0327ektenSon_22": 1880907430
+      "gerc\u0327ektenSon_23": 1365421701
+      "gerc\u0327ektenSon_24": 2092943269
+      "gerc\u0327ektenSon_25": 1682860621
+      "gerc\u0327ektenSon_26": -1380626399
+      "gerc\u0327ektenSon_3": -2146927617
+      "gerc\u0327ektenSon_4": -467026419
+      "gerc\u0327ektenSon_5": 655062183
+      "gerc\u0327ektenSon_6": -612927344
+      "gerc\u0327ektenSon_7": -1776077567
+      "gerc\u0327ektenSon_8": 1028479121
+      "gerc\u0327ektenSon_9": -2043854921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
